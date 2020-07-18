@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=budget_app_clone
+POSTGRES_USER=nIvRrKdeGlWdepQICJvNMiFUiynyCwNM
+POSTGRES_PASSWORD=QytzWN6RwhgqKCUMAuphX9J964s7ghxU8rZ5MUcG2l7cu6iX8BRTjknaq90ZoZdG
